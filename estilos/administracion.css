@@ -84,26 +84,28 @@ input[type=file]::file-selector-button:hover{
 }
 
 @media (max-width: 450px){
+    
     form{
-        width: 70vh;
-        height: 70vh;
+        padding: 0.2rem;
+        width: 40vh;
+        height: 42vh;
     }
 
     #nombre{
-        width: 23rem;
+        width: 21rem;
     }
     
     #tipo{
-        width: 23rem;
+        width: 21rem;
     }      
         
     #subir{
-        width: 23rem;
+        width: 21rem;
     }
-    
     
     #descripcion{
-        width: 23rem;
-        height: 35%;
+        width: 21rem;
+        height: 30%;
     }
+    
 }
