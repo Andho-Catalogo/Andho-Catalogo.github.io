@@ -51,3 +51,9 @@ body{
     background: linear-gradient(lightblue, white);
     text-align: center;
 }
+
+@media (max-width: 450px){
+    #contenido{
+        margin-left: 15%; 
+    }    
+}
