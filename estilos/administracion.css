@@ -82,3 +82,28 @@ input[type=file]::file-selector-button:hover{
     background: linear-gradient(lightblue, white);
     text-align: center;
 }
+
+@media (max-width: 450px){
+    form{
+        width: 70vh;
+        height: 70vh;
+    }
+
+    #nombre{
+        width: 23rem;
+    }
+    
+    #tipo{
+        width: 23rem;
+    }      
+        
+    #subir{
+        width: 23rem;
+    }
+    
+    
+    #descripcion{
+        width: 23rem;
+        height: 35%;
+    }
+}
