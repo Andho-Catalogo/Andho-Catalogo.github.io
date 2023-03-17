@@ -54,6 +54,7 @@ body{
 
 @media (max-width: 450px){
     #contenido{
-        margin-left: 8%; 
+        width: 60%;
+        margin-left: 7%; 
     }    
 }
