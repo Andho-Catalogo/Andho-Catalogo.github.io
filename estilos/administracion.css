@@ -86,9 +86,9 @@ input[type=file]::file-selector-button:hover{
 @media (max-width: 450px){
     
     form{
-        padding: 0.2rem;
-        width: 40vh;
-        height: 42vh;
+        margin-right: 30%;
+        width: 70%;
+        height: 70%;
     }
 
     #nombre{
@@ -105,7 +105,6 @@ input[type=file]::file-selector-button:hover{
     
     #descripcion{
         width: 21rem;
-        height: 30%;
+        height: 10rem;
     }
-    
 }
